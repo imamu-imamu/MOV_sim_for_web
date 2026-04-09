@@ -1,3 +1,4 @@
 # MOV_sim_for_web
 
-~~.htmlは
+github pagesの仕様で
+~~.htmlはindex.htmlにrenameする
